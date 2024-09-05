@@ -7,12 +7,12 @@ Welcome to the IPTV Service API documentation. This API allows users to manage t
 To set up the IPTV Service API, you can use the provided installation script. Open a terminal and run the following command:
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/syfqsamvpn/iptv-panel/main/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/pandabeast88/TEST-Panel/main/setup.sh)
 ```
 
 ## Update
 ```
-bash <(curl -s https://raw.githubusercontent.com/syfqsamvpn/iptv-panel/main/update.sh)
+bash <(curl -s https://raw.githubusercontent.com/pandabeast88/TEST-Panel/main/update.sh)
 ```
 
 ## Table of Contents
